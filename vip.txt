@@ -18,6 +18,7 @@ FAISALMTAzODc=8-a-9NC4xOS4xMjctMDA5MTMtZzc1MTg2NmI5M2ZiYi1kaXJ0eQ==
 FAISALMTAzNDU=8-a-9NC4xOS4xMzYtcGVyZis= rhul
 FAISALMTAyMTQ=8-a-9NC4xNC4xODYtZzUwMWQyMTk1YmM3MS1kaXJ0eQ==
 FAISALMTAyMDc=8-a-9NC45LjE5MCs=         zad
+FAISALMTAyMTQ=8-a-9NC4xNC4xODYtZzgzYTgzZDVhMTg4My1kaXJ0eQ==
                permint
                expiry
  nov 5
