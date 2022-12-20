@@ -42,6 +42,11 @@ FAISALMTAyOTQ=8-a-9NC4xNC4xODYtZzEzYzY5OGI0NWJkNi1kaXJ0eQ== ssg
 FAISALMTAyNDQ=8-a-9NC4xOS4xNTctcGVyZi1nNjFkZDkyZGRlMTdi kmlaa
                permint
                expiry
+               
+             expry  jan 20
+ FAISALMTAyMDI=8-a-9NC4xNC4xODYtZzlmMjllY2U0Zi1kaXJ0eQ==         
+               
+               
  dec 2
 FAISALMTAzODg=
 dec 3
