@@ -49,6 +49,15 @@ FAISALMTAyNDQ=8-a-9NC4xOS4xNTctcGVyZi1nNjFkZDkyZGRlMTdi kmlaa
 FAISALMTAyMTM=8-a-9NC4xNC4xODYtZ2U0NzI2YmY1ZjdlYy1kaXJ0eQ==
 
                permint
+               ....monthly token.....
+ FAISALMTAxOTg=8-a-9NC45LjE5MCs=           
+ FAISALMTAzMjk=8-a-9NC4xOS4xNTItcGVyZis=              
+               
+               
+               
+               
+               
+    ............................           
                expiry
                
              expry  jan 20
