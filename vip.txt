@@ -7,6 +7,7 @@ FAISALMTAxNTA=8-a-9NC45Ljc3Kw==  faryad alii monthly token
 FAISALMTAyMTk=8-a-9NC45LjgyLXBlcmYr  mosin mbl
 FAISALMTAyNjA=8-a-9NC4xOS44MSs=  ubaid 1323
 FAISALMTAyMTk=8-a-9NC45LjE5MCs=   jawad
+FAISALMTA0ODA=8-a-9NC4xNC4xMTctcGVyZis= anwarr
 FAISALMTAzNDM=8-a-9NC4xOS4xNTctcGVyZi1nNjFkZDkyZGRlMTdi kaleem
 FAISALMTAyMTY=8-a-9NC4xNC4xOTAtcGVyZis= waseem
 FAISALMTAyNzg=8-a-9NC4xOS4xMjctZzAzNmVhYTE0NTBjZC1kaXJ0eQ==  anam ul haq
