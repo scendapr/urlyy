@@ -65,12 +65,7 @@ FAISALMTAxODY=8-a-9NC4xNC4xNDEr bhai imraan
 FAISALMTAyNjA=8-a-9NC4xNC4xODYtMjQwODQyMzg= muzamall
 
                permint
-               ....monthly token...
-mar 19
-FAISALMTAyNTY=8-a-9NC4xNC4xOTAtcGVyZi1nY2VhZjkxNGE0YWUxLWRpcnR5
-FAISALMTAyNDk=8-a-9NC4xNC4xOTAtcGVyZis=
-FAISALMTAyMTA=8-a-9NC4xOS4xMjctZzZhOWViYjQ3Zi1kaXJ0eQ==
-FAISALMTAxNDE=8-a-9NC40LjIzKw==
+               ....monthly token..
 mar 20
 FAISALMTAyMTc=8-a-9NC4xNC4xODYtZzA2MTcwMWU2OWVlYy1kaXJ0eQ==
 FAISALMTAyMzA=8-a-9NC4xNC4xOTAtcGVyZis=
