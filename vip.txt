@@ -8,6 +8,7 @@ FAISALMTAyMTk=8-a-9NC45LjgyLXBlcmYr  mosin mbl
 FAISALMTAxODk=8-a-9NC45LjE5MCs=    agha naveed
 FAISALMTAyNDQ=8-a-9NC4xNC4xODYtZ2U0NzI2YmY1ZjdlYy1kaXJ0eQ== ali shairrsangla
 FAISALMTAyNjA=8-a-9NC4xOS44MSs=  ubaid 1323
+FAISALMTAyNTQ=8-a-9NC4xOS44MS1wZXJmKw==  fayaz ali 2ndd
 FAISALMTAyMTk=8-a-9NC45LjE5MCs=   jawad
 FAISALMTAyNTc=8-a-9NC4xOS44MS1wZXJmKw== fyaz 2nd phome sangla
 FAISALMTAzMzI=8-a-9NC4xOS4xNTctcGVyZis= arslan
