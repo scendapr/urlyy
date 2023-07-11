@@ -14,7 +14,6 @@ FAISALMTAxOTQ=8-a-9NC4xOS4xOTEtZzhjYWFkZjk3ZTgzOS1kaXJ0eQ==
                asad
  FAISALMTAzOTY=8-a-9NC4xNC4xODYtZ2IxZTk5MzA5MTBmZi1kaXJ0eQ==              
                faizan
-   FAISALMTAzMjg=8-a-9NC4xOS4xNTctcGVyZis=        charlichrf   
                muzamal
 FAISALMTAyNjA=8-a-9NC4xNC4xODYtMjU2ODE1NjA=       
 fatima
@@ -37,11 +36,7 @@ FAISALMTA0MDI=8-a-9NC4xNC4xODYtMDA5NjktZzhlMzdhN2ZjM2U0ZC1kaXJ0eQ==
 .............................................❤
 ‏
 
-july 9
-FAISALMTAyMjA=8-a-9NC4xNC4xNDEr
-FAISALMTAzMjg=8-a-9NC4xOS4xMjctZ2U3ODVmYmYwNC1kaXJ0eQ==
-july 10
-FAISALMTAyNTc=8-a-9NC4xOS44MS1wZXJmKw==
+
 july 12
 FAISALMTA0MTI=8-a-9NC45LjE5MCs=
 july 13
@@ -64,5 +59,6 @@ FAISALMTA0NzA=8-a-9NC4xNC4xODAtcGVyZis=
 25 july
 FAISALMTAyOTM=8-a-9NC4xNC4xOTAtcGVyZg==
 FAISALMTAxNzU=8-a-9NC4xNC4xNDEr
-
+26 july
+FAISALMTAwNTI=8-a-9NC4xOS4xOTEtMjU5OTExMjgtYWJBMDM3RlhYUzNDV0M3
 
