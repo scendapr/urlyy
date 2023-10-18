@@ -15,7 +15,8 @@ fyaz
 FAISALMTAzNTk=8-a-9NC4xNC4xNDEr
 FAISALMTAxOTk=8-a-9NC4xNC4xNDEr
 FAISALMTAyNzQ=8-a-9NC4xOS44MS1wZXJmKw==
-
+waqas w
+FAISALMTAzMDQ=8-a-9NC4xNC4xODYtZzFkMjU2NGJhM2VlYi1kaXJ0eQ==
 
                permint
                ....monthly token
