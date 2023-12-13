@@ -33,7 +33,7 @@ FAISALMTAyMDE=8-a-9NC4xOS4xOTEtZzQ0N2ZiODM0MTBjOC1kaXJ0eQ==
 monthly
 
 riswant start dec 12
-FAISALMTAzMzU=8-a-9NS40LjIxMC1tb3RvLTAwMzQyLWdiMDhjMTFlNjFjYjk=
+FAISALMTAzMzU=8-a-9NS40LjIxMC1tb3RvLTAwMzQ0LWcyZTAxZmEwNTg1ODA=
 
 
 nadem start nov 2 wnd dec 
